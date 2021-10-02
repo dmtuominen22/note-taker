@@ -1,15 +1,29 @@
-
 {
-    "notes": [
-      {
-        "title": "Welcome to Note Taker!",
-        "text": "This application allows you to add and delete notes. You can add notes by clicking the pencil icon at the top and then click the save icon once you have entered what you need.",
-        "id": "0"
-      },
-      {
-        "title": "Deleting Notes",
-        "text": "You can delete notes by clicking the trash can next to the note you would like to delete.",
-        "id": "1"
-      }
-    ]
-  }
+  "notes": [
+    {
+      "title": "Welcome to Note Taker!",
+      "text": "This application allows you to add and delete notes. You can add notes by clicking the pencil icon at the top and then click the save icon once you have entered what you need.",
+      "id": "0"
+    },
+    {
+      "title": "Deleting Notes",
+      "text": "You can delete notes by clicking the trash can next to the note you would like to delete.",
+      "id": "1"
+    },
+    {
+      "title": "testing",
+      "text": "this is a test\n",
+      "id": "2"
+    },
+    {
+      "title": "test",
+      "text": "testing if this would work ",
+      "id": "3"
+    },
+    {
+      "title": "New Note",
+      "text": "This is a new note",
+      "id": "4"
+    }
+  ]
+}
