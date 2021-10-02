@@ -20,7 +20,7 @@
 https://github.com/dmtuominen22/note-taker
 
 ## Website 
-https://infinite-taiga-25020.herokuapp.com/
+https://whispering-headland-53307.herokuapp.com/
 ## Languages
   JavaScript, handlebars.js, Node.js, MySQL,  Heroku. Express.js
 ## Installations
